@@ -1,3 +1,8 @@
+# 🏆 Hackathon Project: ADSOACRem AI
+> **Submission for:** [GitLab AI Hackathon 2026](https://devpost.com/software/adsoacrem-ai)  
+> **Status:** Final Submission / Polyglot Security Framework
+
+---
 **Agentic DevSecOps for Auto-Compliant Remediation [ADSOACRem]**
 
 # ADSOACRem-AI
